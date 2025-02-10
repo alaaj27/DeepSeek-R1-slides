@@ -8,20 +8,6 @@ DeepSeek-R1-Slides is a collection of slides and presentation materials focused 
 - Well-structured presentations suitable for academic and industry talks.
 
 
-## Installation
-Clone the repository to access the slides:
-```bash
-git clone https://github.com/your-username/DeepSeek-R1-Slides.git
-```
-
-## Usage
-1. Navigate to the cloned directory:
-   ```bash
-   cd DeepSeek-R1-Slides
-   ```
-2. Open the slides using a compatible presentation software (e.g., PowerPoint, Google Slides, or PDF viewer).
-3. Use the slides for presentations, study, or reference.
-
 ## References
 For a deeper understanding of DeepSeek, please refer to the following papers:
 - [DeepSeek-V3 Paper](https://arxiv.org/abs/2412.19437v1)
