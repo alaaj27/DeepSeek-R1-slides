@@ -15,20 +15,6 @@ For a deeper understanding of DeepSeek, please refer to the following papers:
 - [DeepSeek-R1 Paper](https://arxiv.org/abs/2501.12948)
 - [Proximal Policy Optimization (PPO) Paper](https://arxiv.org/abs/1707.06347)
 
-## Contributing
-We welcome contributions to improve the content. To contribute:
-1. Fork the repository.
-2. Create a new branch for your changes:
-   ```bash
-   git checkout -b feature/update-content
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Added new slides on [topic]"
-   ```
-4. Push to your branch and create a pull request.
-
-
 ## Contact
-For any questions about the paper content, please reach out to the orignial authors.
+For any questions about the paper's content, please contact the original authors.
 
